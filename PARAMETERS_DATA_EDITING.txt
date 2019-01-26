@@ -1,2 +1,4 @@
-pathDataSet:******************/physionet.org/pn6/chbmit/
-FirstPartPathOutput: ******************/dataset/spectograms
+pathDataSet:/home/sailam/Desktop/MSNE/Year 1 Semester 3/NISE/Project/Epilepsy Data/CHB MIT/
+FirstPartPathOutput: /home/sailam/media/sailam/Seagate Backup Plus Drive/School/NISE Project/Scalograms/scalograms_1
+
+

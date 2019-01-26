@@ -1,3 +1,3 @@
-PathSpectogramFolder:*************/dataset/spectograms
-OutputPath: *********/dataset/results.txt
-OutputPathModels: *************/dataset/
+PathSpectogramFolder:/Volumes/chenchen/CNNs-on-CHB-MIT_edited/Results/dataset/spectograms
+OutputPath:/Volumes/chenchen/CNNs-on-CHB-MIT_edited/Results
+OutputPathModels:/Volumes/chenchen/CNNs-on-CHB-MIT_edited/Results/models
